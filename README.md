@@ -1,9 +1,9 @@
 # forest
 
 Software requirements to run project
-Node
-Yarn
-Docker
+
+Node, Yarn, Docker
+
 
 To run application, in terminal. 
 1.	Set up the docker environment by running the docker-compose.yml script to create MongoDB container.
